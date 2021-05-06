@@ -1,0 +1,5 @@
+logging.level:
+  com.slack.api: DEBUG
+  de.novatec.niko: INFO
+server:
+  port: 3333
